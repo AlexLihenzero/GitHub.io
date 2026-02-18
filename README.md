@@ -1,3 +1,2 @@
 # GitHub.io
-I'm the best version of self
-looking for new opportunities and collaboration
+(# Hi i,m Alex lihenzero, ## i,m currently learning AI at WecanAcademy and i,m interested in Git and GitHub eg python)
